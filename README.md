@@ -5,7 +5,7 @@
 
 Our SSD development platform is built around the **Xilinx Zynq® UltraScale+™ MPSoC** as the core board. This device features a heterogeneous computing architecture, integrating programmable **ARM Cortex® application processors** with a high-performance **FPGA fabric** on a single chip. This combination enables flexible and efficient execution of both control-plane tasks (on the ARM cores) and data-plane acceleration (in the FPGA logic).
 
-![SSD board](Pic/SSD-board.pngn
+![SSD board](Pic/SSD-board.png)
 
 The core board is mounted onto a custom carrier (or base) board, which provides essential system-level support, including:
 

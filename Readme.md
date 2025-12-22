@@ -15,7 +15,7 @@
 
 ### For inquiries about this platform and to request access to the prototype, please contact:
 
-* Email: **** 
+* Email: softssd26@gmail.com
 
 ### The details for platform deployment can be found at: 
 

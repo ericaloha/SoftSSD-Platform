@@ -156,7 +156,7 @@ Our SSD platform employs a multi-tasking concurrency model to process multiple N
 
 Underlying this model is a lightweight coroutine framework. The main program initializes 16 task coroutines at startup. During the execution gaps between coroutine yields, the scheduler polls various queues—such as the NVMe Submission Queues (SQs) and flash request completion queues—and resumes the appropriate coroutines when their awaited events or data become available.
 
-#Deployment Details
+# Deployment Details
 
 - The platform deployment with a detailed step-by-step guide can be found in xxx 
 

@@ -2,9 +2,9 @@
 
 ## Overview
 
-### Feature
+![SoftSSD Architecture](Pic/SoftSSD.jpg)
 
-![SoftSSD Architecture](Pic/SoftSSD.jpg) 
+### Feature
 
 * Our SSD development platform is built around the **Xilinx Zynq® UltraScale+™ MPSoC** as the core board. 
 * This device features a heterogeneous computing architecture, integrating programmable **ARM Cortex® application processors** with a high-performance **FPGA fabric** on a single chip.

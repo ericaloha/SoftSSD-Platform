@@ -4,9 +4,23 @@
 
 ### Feature
 
+![SSD board](Pic/SSD-Platform.jpg)
+
 * Our SSD development platform is built around the **Xilinx Zynq® UltraScale+™ MPSoC** as the core board. 
 * This device features a heterogeneous computing architecture, integrating programmable **ARM Cortex® application processors** with a high-performance **FPGA fabric** on a single chip.
    * This combination enables flexible and efficient execution of both control-plane tasks (on the ARM cores) and data-plane acceleration (in the FPGA logic).
+* Performance metrics
+|Page latecncy|Lower-page|Upper-page|Extra-page|*avg.*|
+|---|---|---|---|---|
+|read|115us|130us|145us|130us|
+|program|600us|60us|1460us|706us|
+
+|Internal bandwidth|Per-channel (single die)|Overall|
+|---|---|---|
+|read|120MB/s|480MB/s|
+|program|20MB/s|80MB/s|
+
+* More features can be found in [Introduction to SoftSSD](/Guide/Intro.md).
 
 ### Price: 25,000 HKD
 
@@ -25,7 +39,7 @@
 
 ## Hardware Architecture
 
-![SSD board](Pic/SSD-Platform.jpg)
+
 
 The core board is mounted onto a custom carrier (or base) board, which provides essential system-level support, including:
 

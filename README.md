@@ -1,5 +1,21 @@
 # SoftSSD-Platform
 
+## Overview
+
+### Feature
+
+* Our SSD development platform is built around the **Xilinx Zynq® UltraScale+™ MPSoC** as the core board. 
+* This device features a heterogeneous computing architecture, integrating programmable **ARM Cortex® application processors** with a high-performance **FPGA fabric** on a single chip.
+* This combination enables flexible and efficient execution of both control-plane tasks (on the ARM cores) and data-plane acceleration (in the FPGA logic).
+
+### For inquiries about this platform and to request access to the prototype, please contact:
+
+* Email: kchuang21@cse.cuhk.edu.hk
+
+### The platform deployment with a detailed step-by-step guide can be found at xxx
+
+
+
 
 ## Hardware Architecture
 
@@ -156,7 +172,5 @@ Our SSD platform employs a multi-tasking concurrency model to process multiple N
 
 Underlying this model is a lightweight coroutine framework. The main program initializes 16 task coroutines at startup. During the execution gaps between coroutine yields, the scheduler polls various queues—such as the NVMe Submission Queues (SQs) and flash request completion queues—and resumes the appropriate coroutines when their awaited events or data become available.
 
-# Deployment Details
 
-- The platform deployment with a detailed step-by-step guide can be found in xxx 
 

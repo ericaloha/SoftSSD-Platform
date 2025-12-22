@@ -10,6 +10,7 @@
 * This device features a heterogeneous computing architecture, integrating programmable **ARM Cortex® application processors** with a high-performance **FPGA fabric** on a single chip.
    * This combination enables flexible and efficient execution of both control-plane tasks (on the ARM cores) and data-plane acceleration (in the FPGA logic).
 * Performance metrics
+* 
 |Page latecncy|Lower-page|Upper-page|Extra-page|*avg.*|
 |---|---|---|---|---|
 |read|115us|130us|145us|130us|

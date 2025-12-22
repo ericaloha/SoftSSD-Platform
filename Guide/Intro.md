@@ -1,6 +1,6 @@
 ## Hardware Architecture
 
-![SSD board](Pic/SSD-Platform.jpg)
+![SSD board](../Pic/SSD-Platform.jpg)
 
 The core board is mounted onto a custom carrier (or base) board, which provides essential system-level support, including:
 

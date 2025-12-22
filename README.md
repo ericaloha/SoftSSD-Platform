@@ -14,7 +14,7 @@
 
 ### The platform deployment with a detailed step-by-step guide can be found at 
 
-* [Step-by-step guide](/SoftSSD Setup Guide.pdf)
+* [Step-by-step guide](/Guide/SoftSSD_Setup_Guide.pdf)
 
 
 

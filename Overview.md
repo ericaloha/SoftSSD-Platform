@@ -17,7 +17,7 @@
 ### The details for platform deployment can be found at: 
 
 * [deployment Notes](/Guide/Notes.md).
-* 
+
 * [A Step-by-step Guide](/Guide/SoftSSD_Setup_Guide.pdf).
 
 

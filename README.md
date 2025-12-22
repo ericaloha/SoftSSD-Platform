@@ -8,6 +8,8 @@
 * This device features a heterogeneous computing architecture, integrating programmable **ARM Cortex® application processors** with a high-performance **FPGA fabric** on a single chip.
 * This combination enables flexible and efficient execution of both control-plane tasks (on the ARM cores) and data-plane acceleration (in the FPGA logic).
 
+### Price: 25,000 HKD
+
 ### For inquiries about this platform and to request access to the prototype, please contact:
 
 * Email: kchuang21@cse.cuhk.edu.hk

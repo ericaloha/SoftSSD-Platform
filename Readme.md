@@ -11,11 +11,11 @@
    * This combination enables flexible and efficient execution of both control-plane tasks (on the ARM cores) and data-plane acceleration (in the FPGA logic).
 * More features can be found in [Introduction to SoftSSD](/Guide/Intro.md).
 
-### Price: 25,000 HKD
+### Price: 32,000 HKD
 
 ### For inquiries about this platform and to request access to the prototype, please contact:
 
-* Email: kchuang21@cse.cuhk.edu.hk
+* Email: softssd@gmail.com
 
 ### The details for platform deployment can be found at: 
 

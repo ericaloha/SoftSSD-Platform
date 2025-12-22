@@ -23,7 +23,7 @@ The SSD firmware runs on the ARM application processors, while flash translation
 
 ### FPGA 
 
-![FPGA system](system.jpg)
+![FPGA system](Pic/FPGA.jpg)
 
 The FPGA implements a NVMe-over-PCIe controller and ONFI-compliant NAND flash controllers. These controllers are connected with both on-board DDR memory and the ARM processor’s memory hierarchy, enabling efficient data movement across the heterogeneous compute fabric.
 

@@ -14,9 +14,11 @@
 
 * Email: kchuang21@cse.cuhk.edu.hk
 
-### The platform deployment with a detailed step-by-step guide can be found at 
+### The details for platform deployment can be found at: 
 
-* [Step-by-step guide](/Guide/SoftSSD_Setup_Guide.pdf)
+* [deployment Notes](/Guide/Notes.md).
+* 
+* [A Step-by-step Guide](/Guide/SoftSSD_Setup_Guide.pdf).
 
 
 

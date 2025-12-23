@@ -23,6 +23,8 @@
 
 * [A Step-by-step Guide](/Guide/SoftSSD_Setup_Guide.pdf).
 
+* Reference Paper:[SoftSSD Paper](/Guide/SoftSSD.pdf)
+
 
 
 

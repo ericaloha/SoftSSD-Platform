@@ -11,7 +11,7 @@
 * Complete flash firmware atop multi-core processors 
   * FTL (Flash Translation Layer): Coroutine-based Address mapping & storage management; automatic task switching, with enhanced concurrency, system responsiveness, and throughput.
   * FIL (Flash Interface Layer): Queue-based low-level flash transactions; efficient data communication.
-  * ECC 9Error Correction Code) Engine: Ensures data integrity through error detection and correction.
+  * ECC (Error Correction Code) Engine: Ensures data integrity through error detection and correction.
 
 * Software-hardware acceleration design
   * PCIe Interface, with FPGA-based physical layer & data link layer implementation.

@@ -18,7 +18,7 @@
   * DMA Interface, with offloaded Transaction Layer Packet (TLP) processing for improved performance.
   * Coding/Decoding, with interleaved storage of data blocks and code bits.
 
- ### Device Features
+### Device Features
 
 * Our platform features a heterogeneous computing architecture, integrating programmable **ARM Cortex® application processors** with a high-performance **FPGA fabric** on a single chip.
    * Our SSD development platform is built around the **Xilinx Zynq® UltraScale+™ MPSoC** as the core board. 

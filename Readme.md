@@ -8,7 +8,7 @@
 
 ### SoftSSD Highlights
 
-* Complete flash firmware atop multi-core processors 
+* Full-Featured flash firmware atop multi-core processors 
   * FTL (Flash Translation Layer): Coroutine-based Address mapping & storage management; automatic task switching, with enhanced concurrency, system responsiveness, and throughput.
   * FIL (Flash Interface Layer): Queue-based low-level flash transactions; efficient data communication.
   * ECC (Error Correction Code) Engine: Ensures data integrity through error detection and correction.

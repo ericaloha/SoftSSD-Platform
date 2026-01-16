@@ -29,7 +29,7 @@
 
 ### Price: 32,000 HKD
 
-### For inquiries about this platform and to request access to the prototype, please contact:
+### For inquiries about this platform:
 
 * Email: softssd26@gmail.com
 

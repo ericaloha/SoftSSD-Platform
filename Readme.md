@@ -39,6 +39,8 @@
 
 * [A Step-by-step Guide](/Guide/SoftSSD_Setup_Guide.pdf).
 
+* [A use case for on-disk vector search](https://github.com/xkjiang-srfv/Aggregation_FEMU/tree/main/femu)
+
 ###  Reference Paper:
 * [SoftSSD Paper](https://link.springer.com/article/10.1631/fitee.2200456)
 

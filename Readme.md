@@ -34,7 +34,7 @@
 
 * [A Step-by-step Guide](/Guide/SoftSSD_Setup_Guide.pdf).
 
-* [A use case for on-disk vector search](https://github.com/xkjiang-srfv/Aggregation_FEMU/tree/main/femu)
+* [A Femu use case for on-disk vector search](https://github.com/xkjiang-srfv/Aggregation_FEMU/tree/main/femu)
 
 
 

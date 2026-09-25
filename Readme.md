@@ -37,12 +37,13 @@ For inquiries about this platform:
 
 * [Development Notes](/Guide/Notes.md).
 
-* [A Step-by-step Guide](/Guide/SoftSSD_Setup_Guide.pdf).
+* [A Step-by-step Guide](/Guide/SoftSSD_Setup_Guide-v2.pdf).
 
 * [A use case for on-disk vector search](https://github.com/xkjiang-srfv/Aggregation_FEMU/tree/main/femu)
 
  ###  Reference Paper:
  * [SoftSSD Paper](https://link.springer.com/article/10.1631/fitee.2200456)
+ * [SoftSSD Use Case Paper #1](https://www.usenix.org/conference/osdi25/presentation/cui)
 
 
 

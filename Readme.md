@@ -31,7 +31,7 @@
 
 For inquiries about this platform: 
 
-* Email: softssd26@gmail.com
+* Email: softssd1@gmail.com
 
 ### The details for platform deployment can be found at: 
 

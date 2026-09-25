@@ -27,6 +27,11 @@
   
 * More features can be found in [Introduction to SoftSSD](/Guide/Intro.md).
 
+### Price: 32,000 HKD
+
+For inquiries about this platform: 
+
+* Email: softssd26@gmail.com
 
 ### The details for platform deployment can be found at: 
 
@@ -34,7 +39,10 @@
 
 * [A Step-by-step Guide](/Guide/SoftSSD_Setup_Guide.pdf).
 
+* [A use case for on-disk vector search](https://github.com/xkjiang-srfv/Aggregation_FEMU/tree/main/femu)
 
+ ###  Reference Paper:
+ * [SoftSSD Paper](https://link.springer.com/article/10.1631/fitee.2200456)
 
 
 

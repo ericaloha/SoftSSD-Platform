@@ -41,7 +41,7 @@ For inquiries about this platform:
 
 * [A use case for on-disk vector search](https://github.com/xkjiang-srfv/Aggregation_FEMU/tree/main/femu)
 
- ###  Reference Paper:
+### Reference Paper:
  * [SoftSSD Paper](https://link.springer.com/article/10.1631/fitee.2200456)
  * [SoftSSD Use Case Paper #1](https://www.usenix.org/conference/osdi25/presentation/cui)
 

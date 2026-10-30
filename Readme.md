@@ -40,7 +40,7 @@ For inquiries about this platform:
 * [A Step-by-step Guide](/Guide/SoftSSD_Setup_Guide-v2.pdf).
 
 ### Reference Paper:
- * [Jin Xue, Renhai Chen, Tianyu Wang, Zili Shao. SoftSSD: enabling rapid flash firmware prototyping for solid-state drives](https://link.springer.com/article/10.1631/fitee.2200456)
+ * [Jin Xue, Renhai Chen, Tianyu Wang, Zili Shao, "SoftSSD: enabling rapid flash firmware prototyping for solid-state drives"](https://link.springer.com/article/10.1631/fitee.2200456)
  * [Guo Y, Wang T, Chen Z, et al. Groundhog: Accelerating Spatio-Temporal Data Analytics With Fine-Grained In-Storage Processing](https://ieeexplore.ieee.org/abstract/document/11328857/?casa_token=Kpo8jKkeNMEAAAAA:MRoa7iCmh3ZSMAhuTn3YusufuRhSx0xuoiUhTsKaBcWOr4Fp-XRPdOrEKYizGoyP8e5AWrWJww)
 
 

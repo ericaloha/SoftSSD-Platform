@@ -27,7 +27,7 @@
   
 * More features can be found in [Introduction to SoftSSD](/Guide/Intro.md).
 
-### Price: 32,000 HKD
+### Price: HKD 32,000
 
 For inquiries about this platform: 
 
@@ -39,11 +39,9 @@ For inquiries about this platform:
 
 * [A Step-by-step Guide](/Guide/SoftSSD_Setup_Guide-v2.pdf).
 
-* [A use case for on-disk vector search](https://github.com/xkjiang-srfv/Aggregation_FEMU/tree/main/femu)
-
 ### Reference Paper:
- * [SoftSSD Paper](https://link.springer.com/article/10.1631/fitee.2200456)
- * [SoftSSD Use Case Paper #1](https://www.usenix.org/conference/osdi25/presentation/cui)
+ * [Xue J, Chen R, Wang T, et al. SoftSSD: enabling rapid flash firmware prototyping for solid-state drives](https://link.springer.com/article/10.1631/fitee.2200456)
+ * [Guo Y, Wang T, Chen Z, et al. Groundhog: Accelerating Spatio-Temporal Data Analytics With Fine-Grained In-Storage Processing](https://www.usenix.org/conference/osdi25/presentation/cui)
 
 
 
